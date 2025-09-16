@@ -46,3 +46,6 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,x.ai
+# warp
+DOMAIN-SUFFIX,warpianwzlfqdq.dataplane.rudderstack.com
+DOMAIN-SUFFIX,warp.dev
