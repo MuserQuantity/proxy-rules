@@ -46,6 +46,15 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,x.ai
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.tech
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,perplexity.net
+DOMAIN-SUFFIX,perplexity.org
+DOMAIN-SUFFIX,perplexity.io
+DOMAIN-SUFFIX,perplexity.com.cn
+DOMAIN-SUFFIX,perplexity.com.hk
 # warp
 DOMAIN-SUFFIX,warpianwzlfqdq.dataplane.rudderstack.com
 DOMAIN-SUFFIX,warp.dev
