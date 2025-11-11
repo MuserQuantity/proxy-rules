@@ -58,3 +58,5 @@ DOMAIN-SUFFIX,perplexity.com.hk
 # warp
 DOMAIN-SUFFIX,warpianwzlfqdq.dataplane.rudderstack.com
 DOMAIN-SUFFIX,warp.dev
+# cursor
+DOMAIN-SUFFIX,cursor.sh
