@@ -70,5 +70,6 @@ DOMAIN-SUFFIX,warpianwzlfqdq.dataplane.rudderstack.com
 DOMAIN-SUFFIX,warp.dev
 # cursor
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 # openrouter
 DOMAIN-SUFFIX,openrouter.ai
