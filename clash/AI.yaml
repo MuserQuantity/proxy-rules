@@ -74,3 +74,6 @@ payload:
   - DOMAIN-SUFFIX,cursorapi.com
 # openrouter
   - DOMAIN-SUFFIX,openrouter.ai
+# kiro
+  - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,amazonaws.com
