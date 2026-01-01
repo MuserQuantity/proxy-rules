@@ -42,17 +42,17 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 # google
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,lh3.googleusercontent.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,deepmind.com
+# DOMAIN-SUFFIX,deepmind.google
+# DOMAIN,ai.google.dev
+# DOMAIN-SUFFIX,gemini.google.com
+# DOMAIN-SUFFIX,generativeai.google
+# DOMAIN-SUFFIX,antigravity.google
+# DOMAIN-SUFFIX,antigravity-unleash.goog
+# DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+# DOMAIN-SUFFIX,lh3.googleusercontent.com
+# DOMAIN-SUFFIX,makersuite.google.com
+# DOMAIN-SUFFIX,googleapis.com
 # x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
